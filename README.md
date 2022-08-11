@@ -2,7 +2,8 @@
 
 ~ Manipulation des données
 
-~ Développer la logique d'un compte à rebours
+    1. Créer la logique de compte à rebours
+    2. Créer un événement à la validation du form pour lancer le compte à rebours
 
 ### Technologies
 - Javascript
